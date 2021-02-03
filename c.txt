@@ -1,0 +1,4 @@
+Instead of declaring individual variables
+such as number0, number1, ..., and number99,
+you declare one array variable such as numbers and use numbers[0],
+numbers[1], and ..., numbers[99] to represent individual variables.
